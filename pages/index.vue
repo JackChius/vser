@@ -112,7 +112,10 @@ export default {
       name: "One of Gold columns",
       cats:[
         {name:'Wekan 0.74 基于 Meteor 的看板管理应用',desc:'Wekan 是模仿 Trello 且最接近其的开源 KanBan 管理应用，它的前端后端都是用 JavaScript 写的，基于 Meteor 框架'},
-        {name:'Jboot v1.3.4 ，新增在线流量控制，无需重启服务器',desc:'Jboot 是一个基于 JFinal 和 Undertow 开发的微服务框架'}
+        {name:'Jboot v1.3.4 ，新增在线流量控制，无需重启服务器',desc:'Jboot 是一个基于 JFinal 和 Undertow 开发的微服务框架'},
+        {name:'面向物联网设备的运行时 Apache Edgent',desc:'Apache Edgent 是一种编程模型和具有微内核风格的运行时，可嵌入到网关和小型的物联网设备中'},
+        {name:'基于 Canvas 的大数据可视化库 inMap',desc:'inMap 是 TalkingData 可视化团队开源的一款基于 canvas 的大数据可视化库'},
+        {name:'服务于 yii2 的微信 SDK yii2-wx',desc:'微信云建站系统，极低学习成本，公众号、小程序、开放平台和企业微信'}
       ],
       hot_lng:['Java','Python','Golang','Php','C#','Js','Kotlin','Swift','Html/Css','Ruby'],
       hot_fr:['小程序','管理后台','Android','开发框架','爬虫','模板','微信','.net core','mvc'],
